@@ -1,0 +1,27 @@
+title: IceAge Docs
+description: Professional documentation for IceAge FiveM scripts
+theme: just-the-docs
+
+color_scheme: dark
+search_enabled: true
+heading_anchors: true
+nav_enabled: true
+
+aux_links:
+  GitHub:
+    - "https://github.com/IceAge"
+  Discord:
+    - "https://discord.gg/YOURDISCORD"
+
+footer_content: "© IceAge - FiveM Development"
+
+callouts:
+  note:
+    title: Note
+    color: blue
+  warning:
+    title: Warning
+    color: red
+  tip:
+    title: Tip
+    color: green
