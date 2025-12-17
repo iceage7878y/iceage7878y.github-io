@@ -7,6 +7,9 @@ search_enabled: true
 heading_anchors: true
 nav_enabled: true
 
+custom_css:
+  - assets/css/custom.css
+
 aux_links:
   GitHub:
     - "https://github.com/IceAge"
